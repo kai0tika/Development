@@ -1,0 +1,9 @@
+C:\Users\kai0tika\Documents\Development\StockTicker\StockTickerExample\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\kai0tika\Documents\Development\StockTicker\StockTickerExample\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\kai0tika\Documents\Development\StockTicker\StockTickerExample\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\kai0tika\Documents\Development\StockTicker\StockTickerExample\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\Kyle\Documents\Development\StockTickerExample\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Kyle\Documents\Development\StockTickerExample\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Kyle\Documents\Development\StockTickerExample\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Development\StockTickerExample\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Kyle\Documents\Development\StockTickerExample\BusinessObjects\obj\Debug\BusinessObjects.pdb

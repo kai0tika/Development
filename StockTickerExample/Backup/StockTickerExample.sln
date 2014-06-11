@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTickerExample", "StockTickerExample\StockTickerExample.csproj", "{668D4C86-D3E2-494A-AB58-E9E4B4EE65CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{2637B960-754A-4597-BCDA-A9CB30957BF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668D4C86-D3E2-494A-AB58-E9E4B4EE65CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668D4C86-D3E2-494A-AB58-E9E4B4EE65CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668D4C86-D3E2-494A-AB58-E9E4B4EE65CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668D4C86-D3E2-494A-AB58-E9E4B4EE65CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2637B960-754A-4597-BCDA-A9CB30957BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2637B960-754A-4597-BCDA-A9CB30957BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2637B960-754A-4597-BCDA-A9CB30957BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2637B960-754A-4597-BCDA-A9CB30957BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
